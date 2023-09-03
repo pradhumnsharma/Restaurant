@@ -1,0 +1,4 @@
+go get go.mongodb.org/mongo-driver/mongo
+
+
+mongodb+srv://spradhumn03:<password>@cluster0.k7meyma.mongodb.net/?retryWrites=true&w=majority
